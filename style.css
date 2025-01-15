@@ -1,0 +1,259 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3,h4,h5,h6,p,ul{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    width: 90%;
+    margin-left: 5%;
+    justify-content: space-between;
+    padding-top: 65px;
+    padding-bottom: 89px;
+    padding-bottom: 8;
+}
+.logo{
+    width: 20%;
+    height: 30px;
+}
+nav{
+    width: 50%;
+    
+}
+nav ul{
+
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+nav ul li{
+
+}
+nav ul li a{
+            text-decoration: none;
+            font-family: "Playfair Display", serif;
+            color: #626262;
+            font-size: 14px;
+            font-style: playfair display;
+}
+.banner{
+    width: 90%;
+    margin-left: 5%;
+}
+.banner img{
+    width: 100%;
+}
+.photodiary{width: 80%;margin: auto;padding: 68px 0;}
+.photodiary h5{font-family: "Ubuntu", sans-serif;color: #b4ad9e;font-size: 14px;padding-bottom: 30px;font-weight: 300;}
+.photodiary h1{font-family: "Playfair Display", serif;color: #626262;font-size: 30px;padding-bottom: 38px;}
+.photodiary p{font-family: "Playfair Display", serif;color: #626262;font-size: 14px;padding-bottom: 30px;line-height: 25px;}
+.photodiary h6{
+    *{
+    margin: 0;
+    padding: 0;
+}
+    h1,h2,h3,h4,h5,h6,p,ul{
+    margin: 0;
+    padding: 0;
+}
+    header{
+    display: flex;
+    width: 90%;
+    margin-left: 5%;
+    justify-content: space-between;
+    padding-top: 65px;
+    padding-bottom: 89px;
+    padding-bottom: 8;
+}
+.logo{
+    width: 20%;
+    height: 30px;
+}
+    nav{
+    width: 50%;
+    
+}
+    nav ul{
+        
+    }
+    ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+    nav ul li{
+
+    }
+    nav ul li a{
+            text-decoration: none;
+    font-family: "Playfair Display", serif;
+    color: #626262;
+    font-size: 14px;
+    font-style: playfair display;
+}
+.banner{
+    width: 90%;
+    margin-left: 5%;
+}
+.banner
+    img{
+    width: 100%;
+}
+.photodiary{
+    width: 80%;
+    margin: auto;
+    padding: 68px 0;}
+.photodiary
+    h5{font-family: "Ubuntu", sans-serif;
+    color: #b4ad9e;
+    font-size: 14px;
+    padding-bottom: 30px;}
+.photodiary
+    h1{font-family: "Playfair Display", serif;
+    color: #626262;
+    font-size: 30px;
+    padding-bottom: 38px;}
+.photodiary
+    p{font-family: "Playfair Display", serif;
+    color: #626262;
+    font-size: 14px;
+    padding-bottom: 30px;}
+.photodiary
+    h6{
+    font-family: "Playfair Display", serif;
+    color: #b4ad9e;
+    font-size: 15px;
+};
+    font-family: "Ubuntu", sans-serif;
+    color: #b4ad9e;
+    font-size: 15px;
+    font-weight: 300;
+}
+.photo{
+    width: 80%;
+    margin: auto;
+    padding: 60px 0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.item{
+    width: 45%;
+    margin-bottom: 100px;
+}
+.item img{
+        width: 100%;
+        margin-bottom: 23px;
+}
+.item h5{
+    font-family: "Ubuntu", sans-serif;
+    color: #b4ad9e;
+    font-size: 14px;
+    padding-bottom: 30px;
+
+}
+.item h1{
+    font-family: "Playfair Display", serif;
+    color: #626262;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.item p{
+    font-family: "Playfair Display", serif;
+    color: #626262;
+    font-size: 14px;
+    padding-bottom: 30px
+}
+.signup-section{background-color: #f0f0f0;padding: 100px 0;}
+.form{width: 23%;margin: auto;position: relative;}
+.form h1{font-family: "Playfair Display", serif;color: #626262;font-size: 24px;padding-bottom: 29px;font-weight: 500;}
+.form input{
+    font-family: "Playfair Display", serif;
+    font-size: 14px;
+    padding-bottom: 7px;
+    line-height: 25px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+}
+.form input::placeholder{
+    color: #626262;
+}
+.form input:focus{
+    outline: none;
+}
+.icon{position: absolute;bottom: 0;right: 0;}
+.icon img{
+    
+}
+.newphoto{
+    width: 80%;
+    margin: auto;
+    padding: 60px 0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.addmore{
+    width: 45%;
+    margin-bottom: 100px;
+
+}
+.addmore img{
+    width: 100%;
+    margin-bottom: 23px;
+}
+.addmore h5{
+    font-family: "Ubuntu", sans-serif;
+    color: #b4ad9e;
+    font-size: 14px;
+    padding-bottom: 30px;
+}
+.addmore h1{
+    font-family: "Playfair Display", serif;
+    color: #626262;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.addmore p{
+    font-family: "Playfair Display", serif;
+    color: #626262;
+    font-size: 14px;
+    padding-bottom: 30px
+}
+.loadmore{padding-bottom: 75px 0;text-align: center;font-size: 20px;font-family: "Playfair Display", serif;/* color: #626262; */font-size: 30px;padding-bottom: 200px;}
+.loadmore button{
+    font-family: "Playfair Display", serif;
+    color: #626262;
+    font-size: 16px;
+    padding: 10px 11px;
+    cursor: pointer;
+    background: transparent;
+}
+footer{background: #f2f2f2;padding: 50px;}
+.footer-content{width: 90;margin: auto;display: flex;justify-content: space-between;}
+.terms{}
+.terms ul{
+
+}
+.terms ul li{margin-right: 20px;}
+.terms ul li a{text-decoration: none;color: #626262;}
+.social-icon{
+
+}
+.social-icon ul{
+
+}
+.social-icon ul li {margin-left: 20px;}
+.social-icon ul li a{
+    text-decoration: none;
+    text-align: color;
+    color: #626262;
+}
